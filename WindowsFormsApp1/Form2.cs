@@ -152,6 +152,8 @@ namespace WindowsFormsApp1
             addLabel("Time In", 3);
             addLabel("Time Out", 4);
             rowCount++;
+
+            
         }
 
         private void Form2_Load(object sender, EventArgs e)
