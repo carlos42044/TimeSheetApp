@@ -373,6 +373,12 @@ namespace WindowsFormsApp1
         {
             printToPDF();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            DataGridExample exampleForm = new DataGridExample();
+            exampleForm.Show();
+        }
     }
 }
  
